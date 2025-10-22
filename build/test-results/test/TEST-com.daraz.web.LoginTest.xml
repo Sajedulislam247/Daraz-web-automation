@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.daraz.web.LoginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-10-13T12:53:10" hostname="DESKTOP-QF9OP7S" time="54.136">
+  <properties/>
+  <testcase name="loginWithValidCredentialsShouldSucceed" classname="com.daraz.web.LoginTest" time="54.136"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

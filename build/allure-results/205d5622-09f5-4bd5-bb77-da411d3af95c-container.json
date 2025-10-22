@@ -1,0 +1,1 @@
+{"uuid":"205d5622-09f5-4bd5-bb77-da411d3af95c","name":"com.daraz.web.BaseTest.setUp","children":["880707ba-1b28-4f6b-ba5e-3333e470382e"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1760360143837,"stop":1760360144270}],"afters":[],"start":1760360143837,"stop":1760360144274}

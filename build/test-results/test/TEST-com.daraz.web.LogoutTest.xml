@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.daraz.web.LogoutTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-10-13T12:54:06" hostname="DESKTOP-QF9OP7S" time="95.796">
+  <properties/>
+  <testcase name="logoutFromUserAccountShouldSucceed" classname="com.daraz.web.LogoutTest" time="95.796"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
